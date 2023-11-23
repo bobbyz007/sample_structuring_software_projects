@@ -2,7 +2,6 @@ dependencyResolutionManagement {
     repositories {
         maven("https://maven.aliyun.com/repository/public/")
         maven("https://mirrors.huaweicloud.com/repository/maven/")
-        gradlePluginPortal()
         google()
     }
 }
